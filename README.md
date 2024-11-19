@@ -1,1 +1,8 @@
 # Web-Hostings-
+| **Proveïdor**   | **Pàgina web**                                                                               | **Espai d'emmagatzematge** | **Ample de banda** | **Dominis i Subdominis**  | **Certificat SSL** | **Publicitat** |
+|-----------------|----------------------------------------------------------------------------------------------|---------------------------|--------------------|---------------------------|--------------------|-----------------|
+| **GoogieHost**  | [GoogieHost](https://googiehost.com/ca/bloc/millor-allotjament-web-gratu%C3%AFt/)            | Il·limitat                | Il·limitat         | Domini personalitzat      | Sí                 | Sí              |
+| **AwardSpace**  | [AwardSpace](https://googiehost.com/ca/bloc/millor-allotjament-web-gratu%C3%AFt/)            | 1 GB                      | 10 GB              | Subdomini                 | Sí                 | Sí              |
+| **LucusHost**   | [LucusHost](https://googiehost.com/ca/bloc/millor-allotjament-web-gratu%C3%AFt/)             | 1 GB                      | 10 GB              | Domini personalitzat      | Sí                 | No              |
+| **Byet**        | [Byet](https://googiehost.com/ca/bloc/millor-allotjament-web-gratu%C3%AFt/)                  | 1 GB                      | 10 GB              | Subdomini                 | Sí                 | Sí              |
+| **FreeHosting** | [FreeHosting](https://googiehost.com/ca/bloc/millor-allotjament-web-gratu%C3%AFt/)           | 1 GB                      | 10 GB              | Subdomini                 | Sí                 | Sí              |
